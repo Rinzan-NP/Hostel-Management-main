@@ -1,0 +1,25 @@
+# Backend
+Backend/venv/
+Backend/__pycache__/
+Backend/*.pyc
+Backend/db.sqlite3
+Backend/.env
+Backend/media/
+Backend/static/
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+Frontend/build/
+Frontend/.env
+Frontend/.env.local
+Frontend/.env.development.local
+Frontend/.env.test.local
+Frontend/.env.production.local
+Frontend/npm-debug.log*
+Frontend/yarn-debug.log*
+Frontend/yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
